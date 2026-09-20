@@ -1,15 +1,15 @@
 # 🔎 Veritas — Fake & Real News Detector
 
-> **An AI-powered news verification assistant that analyzes news content and helps identify whether it is likely to be Real or Fake.**
+> **An powered news verification assistant that analyzes news content and helps identify whether it is likely to be Real or Fake.**
 
-Veritas is a modern AI-powered web application designed to assist users in evaluating the credibility of news articles and claims. It uses **Google Gemini AI** to analyze submitted news content and provides an easy-to-understand result with supporting insights.
+Veritas is a modern powered web application designed to assist users in evaluating the credibility of news articles and claims. It uses **Google Gemini AI** to analyze submitted news content and provides an easy-to-understand result with supporting insights.
 
 ---
 
 ## 🚀 Features
 
 * 📰 **News Analysis** — Enter or submit news content for analysis.
-* 🤖 **AI-Powered Detection** — Uses Google Gemini AI for intelligent content analysis.
+* 🤖 **Powered Detection** — Uses Google Gemini AI for intelligent content analysis.
 * ✅ **Real / Fake Classification** — Provides a classification based on the AI analysis.
 * 📊 **Confidence Score** — Displays an analysis score to make the result easier to understand.
 * 📈 **Visual Results** — Presents analysis results using interactive UI components and charts.
@@ -235,9 +235,9 @@ Planned improvements may include:
 
 ## ⚠️ Disclaimer
 
-Veritas is an **AI-assisted news analysis project** developed for educational and research purposes.
+Veritas is an **assisted news analysis project** developed for educational and research purposes.
 
-The application does not guarantee that a news article is objectively true or false. AI models can make mistakes, misunderstand context, or produce inaccurate conclusions.
+The application does not guarantee that a news article is objectively true or false. Models can make mistakes, misunderstand context, or produce inaccurate conclusions.
 
 For important claims, users should verify information through **reliable primary sources, official records, and established fact-checking organizations**.
 
